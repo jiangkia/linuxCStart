@@ -1,5 +1,7 @@
 #ifndef STARTUP
 #define STARTUP
+
+#define SIZE	256
 typedef struct Conf
 {
 	int	dayBegin;
